@@ -90,6 +90,9 @@ This Repo is still under Construction as it was just an idea that popped into my
 * ### Booth | https://booth.pm/en
 > Booth is a Site based around Yen and hosts mainly Anime assets for VRChat its amainly SFW Site but there are some Softcore NSFW is still there as well
 
+* ### Payhip | https://payhip.com
+> Payhip is a place where you can sell your product, including digital goods. Many VRChat creators use Payhip to sell NSFW avatars.
+
 ## **NSFW Asset Creators**
 > **If creators dont have a Bio On there gumroad or have made and published one thing there will be one made based on the of products they make**
 
